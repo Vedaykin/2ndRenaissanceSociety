@@ -1,1 +1,106 @@
-<mxfile host="Electron" modified="2023-03-24T09:52:14.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.10 Chrome/106.0.5249.199 Electron/21.3.5 Safari/537.36" etag="ASulkBNIDgquMXjol3ar" version="20.8.10" type="device"><diagram name="Seite-1" id="reXOlka0RR7HOdJJbHTf">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</diagram></mxfile>
+<mxfile host="Electron" modified="2023-04-20T22:50:15.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="bm_yF-vOxcGaY1CntVdU" version="21.1.2" type="device">
+  <diagram name="Seite-1" id="reXOlka0RR7HOdJJbHTf">
+    <mxGraphModel dx="1863" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ksUGWsf0ZPR4c5a9Apki-43" value="Founders" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="114.25" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-1" value="Members" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="211.5" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-2" value="Operators" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="310" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-5" value="Private key holders for Treasury-Safes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="114.25" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-6" value="DAO-Governance-Vote (1 Vote per Member)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="211.5" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-7" value="Private Key holders for Operational Hot-Wallets (1 Wallet per Operator)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="310" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-8" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#050505;strokeColor=#00FF00;strokeWidth=3;startFill=0;fontSize=15;" parent="1" source="KiQA6DTXlfgcgyToCCJ0-2" target="KiQA6DTXlfgcgyToCCJ0-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="346.75" y="184.25" as="sourcePoint" />
+            <mxPoint x="333.5" y="281.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-10" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#050505;strokeColor=#00FF00;strokeWidth=3;startFill=0;fontSize=15;" parent="1" source="KiQA6DTXlfgcgyToCCJ0-1" target="KiQA6DTXlfgcgyToCCJ0-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356.75" y="194.25" as="sourcePoint" />
+            <mxPoint x="343.5" y="291.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-12" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#050505;strokeColor=#00FF00;strokeWidth=3;startFill=0;fontSize=15;" parent="1" source="ksUGWsf0ZPR4c5a9Apki-43" target="KiQA6DTXlfgcgyToCCJ0-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="366.75" y="204.25" as="sourcePoint" />
+            <mxPoint x="353.5" y="301.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="400" as="sourcePoint" />
+            <mxPoint x="-560" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="400" as="sourcePoint" />
+            <mxPoint x="-320" y="19.999999999999886" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-20" value="Title" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontColor=#050505;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-760" y="30" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-21" value="Responsibility" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontColor=#050505;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-520" y="30" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-22" value="Functionality" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontColor=#050505;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-280" y="30" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-23" value="Transfer of Treasury-Safe to Operational Hot-Wallets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="114.25" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-24" value="Making Proposals and participate in DAO-Voting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="211.5" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-25" value="Managing digital assets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="310" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-27" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#050505;strokeColor=#00FF00;strokeWidth=3;startFill=0;fontSize=15;" parent="1" source="KiQA6DTXlfgcgyToCCJ0-5" target="KiQA6DTXlfgcgyToCCJ0-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-586.5000000000002" y="154.25" as="sourcePoint" />
+            <mxPoint x="-510" y="154.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-28" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#050505;strokeColor=#00FF00;strokeWidth=3;startFill=0;fontSize=15;" parent="1" source="KiQA6DTXlfgcgyToCCJ0-6" target="KiQA6DTXlfgcgyToCCJ0-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-346.5000000000002" y="154.25" as="sourcePoint" />
+            <mxPoint x="-260" y="154.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KiQA6DTXlfgcgyToCCJ0-29" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#050505;strokeColor=#00FF00;strokeWidth=3;startFill=0;fontSize=15;" parent="1" source="KiQA6DTXlfgcgyToCCJ0-7" target="KiQA6DTXlfgcgyToCCJ0-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-336.5000000000002" y="164.25" as="sourcePoint" />
+            <mxPoint x="-250" y="164.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyJYS6C_ZesuoSunC2Vm-1" value="Founders" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-589.87" y="435" width="303.25" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nyJYS6C_ZesuoSunC2Vm-2" value="Members" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-569.87" y="470" width="261.25" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="nyJYS6C_ZesuoSunC2Vm-3" value="Operators" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-549.87" y="501" width="221.25" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nyJYS6C_ZesuoSunC2Vm-5" value="&lt;b&gt;&lt;u&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A Founders role includes:&lt;/span&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;- Participates actively in the DAO-Governance process&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;- Holding 1 x private key for the DAO&#39;s Multisigniture Treasury Safe&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;- Can choose to apply for the role of an operator&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;- Participates on the DAO-Profits depending on the amount of $SHR tokens staked&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;- Holds a minimum of 333$SHR tokens&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;u&gt;A Members role includes:&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;- Can choose to participate actively in the DAO-Governance process&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;- Can choose to apply for the role of an operator&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;- Participates on the DAO-Profits depending on the amount of $SHR tokens staked&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;align=left;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-726.25" y="600" width="609.75" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
