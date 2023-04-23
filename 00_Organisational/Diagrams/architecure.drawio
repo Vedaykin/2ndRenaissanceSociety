@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-04-20T22:52:41.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="zsjFlZFVhaEnjywWjKu7" version="21.1.2" type="device" pages="3">
+<mxfile host="Electron" modified="2023-04-23T23:43:55.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="IaDbg-lbaDtUCft1YxZr" version="21.1.2" type="device" pages="3">
   <diagram name="V1.0" id="reXOlka0RR7HOdJJbHTf">
     <mxGraphModel dx="1863" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -394,19 +394,19 @@
         <mxCell id="FZY7Oqexer8E_CtcWSiL-12" value="Operational Hot-Wallets controlled by Operators" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="50" y="484" width="186.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZY7Oqexer8E_CtcWSiL-13" value="NFTs Operations" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#B266FF;" parent="1" vertex="1">
+        <mxCell id="FZY7Oqexer8E_CtcWSiL-13" value="NFTs Operations" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="286.5" y="444" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FZY7Oqexer8E_CtcWSiL-14" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;EOY Financials 2023&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;Option #1: Profits stay within DAO-Treasury and DAO-Operations Wallets&lt;br&gt;Option #2: Profits payed out to Funding-Wallets&lt;br&gt;&lt;br&gt;Outcome will be decided by DAO-Governance process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;verticalAlign=top;align=left;fillColor=#B266FF;" parent="1" vertex="1">
           <mxGeometry x="280" y="630" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FZY7Oqexer8E_CtcWSiL-15" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#FF0000;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#00FF00;" parent="1" source="FZY7Oqexer8E_CtcWSiL-14" target="FZY7Oqexer8E_CtcWSiL-8" edge="1">
+        <mxCell id="FZY7Oqexer8E_CtcWSiL-15" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#000000;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#00FF00;" parent="1" source="FZY7Oqexer8E_CtcWSiL-14" target="FZY7Oqexer8E_CtcWSiL-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="623.5" y="630" as="sourcePoint" />
             <mxPoint x="933.5" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZY7Oqexer8E_CtcWSiL-16" value="Member controlled DAO-Governance; 1 Vote per Member" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;fillColor=#00FF00;" parent="1" vertex="1">
+        <mxCell id="FZY7Oqexer8E_CtcWSiL-16" value="Members controlled DAO-Governance; 1 Vote per Member" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#050505;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="16.75" y="49.51" width="163.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZY7Oqexer8E_CtcWSiL-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;fontSize=15;fontColor=#050505;" parent="1" edge="1">
@@ -439,13 +439,13 @@
         <mxCell id="FZY7Oqexer8E_CtcWSiL-22" value="NFT Gaming Operations" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="546.5" y="444" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FZY7Oqexer8E_CtcWSiL-23" value="Transfer of $Matic" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#00FF00;strokeWidth=3;startFill=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FZY7Oqexer8E_CtcWSiL-2" target="FZY7Oqexer8E_CtcWSiL-1" edge="1">
+        <mxCell id="FZY7Oqexer8E_CtcWSiL-23" value="Transfer of $Matic" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=3;startFill=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FZY7Oqexer8E_CtcWSiL-2" target="FZY7Oqexer8E_CtcWSiL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="753.4999999999995" y="184.25" as="sourcePoint" />
             <mxPoint x="580" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZY7Oqexer8E_CtcWSiL-24" value="Operational Hot-Wallets controlled by Operators" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#B266FF;" parent="1" vertex="1">
+        <mxCell id="FZY7Oqexer8E_CtcWSiL-24" value="Operational Hot-Wallets controlled by Operators" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="484" width="186.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZY7Oqexer8E_CtcWSiL-25" value="Operational Hot-Wallets controlled by Operators" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFF00;" parent="1" vertex="1">
@@ -460,7 +460,7 @@
         <mxCell id="FZY7Oqexer8E_CtcWSiL-28" value="Doxxed Private Funding Wallet of Members and Founders" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="441.75" y="816" width="186.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZY7Oqexer8E_CtcWSiL-30" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#FF0000;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="FZY7Oqexer8E_CtcWSiL-28" target="FZY7Oqexer8E_CtcWSiL-14" edge="1">
+        <mxCell id="FZY7Oqexer8E_CtcWSiL-30" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#000000;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="FZY7Oqexer8E_CtcWSiL-28" target="FZY7Oqexer8E_CtcWSiL-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="791.75" y="670" as="sourcePoint" />
             <mxPoint x="791.75" y="610" as="targetPoint" />
@@ -474,13 +474,13 @@
         <mxCell id="FZY7Oqexer8E_CtcWSiL-34" value="Taxes payed by each Member on own behalf." style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="190" y="816" width="186.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZY7Oqexer8E_CtcWSiL-36" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#00FF00;strokeWidth=3;startFill=0;fontSize=15;" parent="1" source="FZY7Oqexer8E_CtcWSiL-1" target="FZY7Oqexer8E_CtcWSiL-8" edge="1">
+        <mxCell id="FZY7Oqexer8E_CtcWSiL-36" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=3;startFill=0;fontSize=15;" parent="1" source="FZY7Oqexer8E_CtcWSiL-1" target="FZY7Oqexer8E_CtcWSiL-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="723.4999999999995" y="184.25" as="sourcePoint" />
             <mxPoint x="588.25" y="230.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZY7Oqexer8E_CtcWSiL-37" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#FF0000;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="FZY7Oqexer8E_CtcWSiL-34" target="FZY7Oqexer8E_CtcWSiL-28" edge="1">
+        <mxCell id="FZY7Oqexer8E_CtcWSiL-37" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#000000;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="FZY7Oqexer8E_CtcWSiL-34" target="FZY7Oqexer8E_CtcWSiL-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="545" y="656" as="sourcePoint" />
             <mxPoint x="545" y="610" as="targetPoint" />

@@ -1,6 +1,7 @@
-﻿address,name,chainId
+address,name,chainId
 0x36142a1f2A5d2FE4922DbB70add404669A4c8f1D,2nd Renaissance Society Treasury [Polygon],137
 0x459d67bFEa1b4fd9D66b6f62a204703e50A6A21a,Vedaykin Private Funding Wallet,137
 0x1474efe8EC4370676C65cF02BB2543647D874954,Operational Wallet Liquidity Mining,137
 0x979A4BC37abCc78709d5f2C4939a894E65A83129,Shaggy Private Funding Wallet,137
 0x49Bf7A066A1FbF6cAB0dD5Eec44eeefeb2998E83,Re Private Funding Wallet,137
+0x87F2aB6e8A523E6b90Adc670Aea306C26D6a11cb,Operational Wallet Ethereum NFTs,137
